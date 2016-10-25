@@ -1,15 +1,15 @@
 {
-    "name": "cloudmario/scs",
+    "name": "cndavy/sae",
     "type": "library",
     "description": "PHP SDK for 新浪云存储",
     "keywords": ["scs","sina","sinastorage"],
-    "homepage": "https://github.com/CloudSide/SinaCloudStorage-SDK-PHP",
+    "homepage": "https://github.com/cndavy/SinaCloudStorage-SDK-PHP",
     "license": "MIT",
     "authors": [
         {
             "name": "Bruce Chen",
-            "email": "662005@qq.com",
-            "homepage": "http://weibo.com/smcz",
+            "email": "50612@qq.com",
+            "homepage": "http://weibo.com/cndavy",
             "role": "Developer"
         }
     ],
