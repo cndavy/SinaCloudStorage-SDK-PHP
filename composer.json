@@ -1,5 +1,5 @@
 {
-    "name": "cndavy/sae",
+    "name": "cndavy/SinaCloudStorage-SDK-PHP",
     "type": "library",
     "description": "PHP SDK for 新浪云存储",
     "keywords": ["scs","sina","sinastorage"],
